@@ -4,7 +4,7 @@ A React application that demonstrates an interactive scrollable list with expand
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://foysal-mahmud-hasan.github.io/react-expandable-scroll-list) *(Coming Soon)*
+[View Live Demo](https://foysal-mahmud-hasan.github.io/react-expandable-scroll-list) _(Coming Soon)_
 
 ## Features
 
