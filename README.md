@@ -2,7 +2,9 @@
 
 A React application that demonstrates an interactive scrollable list with expandable elements. Click on any element to enlarge it with smooth animations and fixed positioning that follows the scroll.
 
-![Demo](https://via.placeholder.com/600x400/007acc/ffffff?text=Interactive+Scroll+List+Demo)
+## 🚀 Live Demo
+
+[View Live Demo](https://foysal-mahmud-hasan.github.io/react-expandable-scroll-list) *(Coming Soon)*
 
 ## Features
 
@@ -32,7 +34,7 @@ A React application that demonstrates an interactive scrollable list with expand
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/react-expandable-scroll-list.git
+git clone https://github.com/foysal-mahmud-hasan/react-expandable-scroll-list.git
 cd react-expandable-scroll-list
 ```
 
